@@ -1,5 +1,7 @@
 # React - Note taking App
 
+See live [demo here](https://writeish.netlify.app/)
+
 ## Technologies Used
   - React
   - React-Redux
