@@ -17,27 +17,6 @@
   - Night mode is supported
 ---
 
-## Run locally
-
-Step 1. Clone the project
-```
-  git clone <SSH url>
-  cd ./writeish
-```
-
-Step 2. Install dependencies
-
-```
-  npm install
-```
-
-Step 3. Run project
-
-```
-  npm run dev
-```
-
----
 # Previews
 
 ## Home Page
@@ -67,3 +46,36 @@ Step 3. Run project
 ![](src/assets/images/7.png)
 
 ![](src/assets/images/6.png)
+---
+
+## Run locally
+
+Step 1. Clone the project
+```
+  git clone <SSH url>
+  cd ./writeish
+```
+
+Step 2. Install dependencies
+
+```
+  npm install
+```
+
+Step 3. Run project
+
+```
+  npm run dev
+```
+
+---
+
+## Build
+```
+  npm run build
+````
+
+## Preview
+```
+  npm run preview
+```
